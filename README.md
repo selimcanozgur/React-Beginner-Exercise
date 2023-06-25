@@ -1,4 +1,5 @@
-# App
+# Page Display
+![reacts](https://github.com/selimcanozgur/React-Beginner-Exercise/assets/111581140/1c205ae7-19c8-47e3-8ee1-15078a35cbaf)
 
 # Getting Started with Create React App
 
